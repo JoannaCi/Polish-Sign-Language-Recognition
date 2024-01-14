@@ -1,2 +1,0 @@
-import mediapipe
-print('sda')
